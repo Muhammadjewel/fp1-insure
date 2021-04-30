@@ -1,6 +1,7 @@
 body {
   background-color: #fff;
   color: #837D88;
+  font-family: "Karla", "Arial", sans-serif;
   font-size: 16px;
   line-height: 26px;
 }
@@ -32,6 +33,7 @@ body {
 }
 
 .hero h1 {
+  font-family: "DM Serif Display", "Times New Roman", serif;
   font-size: 72px;
   line-height: 64px;
   letter-spacing: -1px;
@@ -43,4 +45,23 @@ body {
   color: #fff;
   text-decoration: none;
   text-transform: uppercase;
+}
+
+.features h2 {
+  font-family: "DM Serif Display", "Times New Roman", serif;
+  font-size: 72px;
+  line-height: 64px;
+  letter-spacing: -1px;
+  color: #2C2830;
+}
+
+.features ul {
+  list-style: none;
+}
+
+.features h3 {
+  font-family: "DM Serif Display", "Times New Roman", serif;
+  color: #2C2830;
+  font-size: 28px;
+  line-height: 38px;
 }
